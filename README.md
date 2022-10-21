@@ -28,7 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayabk709&theme=midnight-purple&show_icons=true" alt="ayabk709" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayabk709&" alt="ayabk709" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayabk709&theme=midnight-purple" alt="ayabk709" /></p>
 <details>
   <summary><h3> 🌲 Forest's coding Journey </h3></summary>
   I started m coding journey as a naie computer science student with a [passion to learn everything 

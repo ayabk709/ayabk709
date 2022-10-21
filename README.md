@@ -11,7 +11,8 @@
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **aya.bekkach@gmail.com**
-- fun fact **i 3 speak languages : Arabic , Frensh , English**
+
+- 😊 fun fact **i 3 speak languages : Arabic , Frensh , English**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,5 +30,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayabk709&" alt="ayabk709" /></p>
 <details>
-  <summary><h3> Foresst's coding Journey </h3></summary>
+  <summary><h3> 🌲 Forest's coding Journey </h3></summary>
   I started m coding journey as a naie computer science student with a [passion to learn everything 

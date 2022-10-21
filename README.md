@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 <h1 align="center">Hi 👋, I'm Aya</h1>
 <h3 align="center">A passionate developer from Morocco</h3>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="400px">

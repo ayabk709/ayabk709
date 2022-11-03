@@ -32,4 +32,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayabk709&theme=midnight-purple&show_icons=true" alt="ayabk709" /></p>
 <details>
   <summary><h3> 🌲 Forest's coding Journey </h3></summary>
-  I started m coding journey as a naie computer science student with a [passion to learn everything 
+  I started m coding journey as a naie computer science student with a [passion to learn everything I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time.Data science . This field combines math and statistics, specialized programming, advanced analytics, artificial intelligence (AI), and machine learning with specific subject matter expertise to uncover actionable insights hidden in an organization’s data.This is the reason why i find it interesting .
+ </details>

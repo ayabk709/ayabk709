@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayana46348167" target="blank"><img src="https://img.shields.io/twitter/follow/ayana46348167?logo=twitter&style=for-the-badge" alt="ayana46348167" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel ,Data science ,and security**
+- 🌱 I’m currently interested in **Laravel ,Data science ,and security**
 
 - 💬 Ask me about **Anything**
 

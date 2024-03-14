@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aya.bekkach@gmail.com**
 
-- 😊 fun fact **i 3 speak languages : Arabic , French , English**
+- 😊 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
